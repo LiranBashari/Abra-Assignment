@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GXhLNiqOPZ0F4paMA/YFukORd3QbCQXUVdidlKj/Hr0=",
+  "Source": "abra-server",
+  "BasePath": "_content/abra-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
